@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.InteropServices;
 using LLHookLib.Keyboard;
+using LLHookLib.Mouse;
 using TerraFX.Interop.Windows;
 using static TerraFX.Interop.Windows.Windows;
 

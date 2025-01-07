@@ -10,9 +10,7 @@
 		<Authors>sbarrac</Authors>
 		<Description>Simple and efficient Windows low level mouse and keyboard hook library</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<RepositoryUrl>
-			https://github.com/sbarrac/LLHookLib
-		</RepositoryUrl>
+		<RepositoryUrl>https://github.com/sbarrac/LLHookLib</RepositoryUrl>
 
 		<PackageReadmeFile>readme.md</PackageReadmeFile>
 	</PropertyGroup>

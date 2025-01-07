@@ -1,7 +1,6 @@
-﻿using LLHookLib.Mouse;
-using TerraFX.Interop.Windows;
+﻿using TerraFX.Interop.Windows;
 
-namespace LLHookLib;
+namespace LLHookLib.Mouse;
 
 public readonly ref struct MouseHookEvent
 {

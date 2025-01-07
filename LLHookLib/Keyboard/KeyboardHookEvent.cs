@@ -1,5 +1,4 @@
-﻿using LLHookLib.Internal;
-using TerraFX.Interop.Windows;
+﻿using TerraFX.Interop.Windows;
 
 namespace LLHookLib.Keyboard;
 

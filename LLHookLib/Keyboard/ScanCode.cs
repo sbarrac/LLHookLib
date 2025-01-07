@@ -1,4 +1,4 @@
-﻿namespace LLHookLib.Internal;
+﻿namespace LLHookLib.Keyboard;
 
 public enum ScanCode
 {
