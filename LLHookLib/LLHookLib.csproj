@@ -6,11 +6,13 @@
 		<Nullable>enable</Nullable>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 		<Authors>sbarrac</Authors>
 		<Description>Simple and efficient Windows low level mouse and keyboard hook library</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/sbarrac/LLHookLib</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 
 		<PackageReadmeFile>readme.md</PackageReadmeFile>
 	</PropertyGroup>
